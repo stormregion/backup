@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<filters>
+<Campaign_filters>
+	<snow>
+		<Name name="Snow" />
+		<Include_strings str1="Snow_"/>
+		<Exclude_strings />
+	</snow>
+	<concrete>
+		<Name name="Concrete" />
+		<Include_strings str1="Concrete_" />
+		<Exclude_strings />
+	</concrete>
+	<stone>
+		<Name name="Stone" />
+		<Include_strings str1="Stone_"/>
+		<Exclude_strings />
+	</stone>
+	<autobahn>
+		<Name name="Autobahn" />
+		<Include_strings str1="Autobahn_" />
+		<Exclude_strings />
+	</autobahn>
+	<other>
+		<Name name="Other" />
+		<Include_strings str1="Other_"/>
+		<Exclude_strings />
+	</other>
+	<grass>
+		<Name name="Grass" />
+		<Include_strings str1="Grass_" />
+		<Exclude_strings />
+	</grass>
+	<mud>
+		<Name name="Mud" />
+		<Include_strings str1="Mud_"/>
+		<Exclude_strings />
+	</mud>
+	<river>
+		<Name name="River" />
+		<Include_strings str1="River_" />
+		<Exclude_strings />
+	</river>
+	<street>
+		<Name name="Street" />
+		<Include_strings str1="Street_"/>
+		<Exclude_strings />
+	</street>
+	<sidewalk>
+		<Name name="Sidewalk" />
+		<Include_strings str1="Sidewalk_" />
+		<Exclude_strings />
+	</sidewalk>
+	<junction>
+		<Name name="Junction" />
+		<Include_strings str1="_T_" str2="_end_" str3="_X_" str4="_L_" />
+		<Exclude_strings />
+	</junction>
+</Campaign_filters>
+<Type_filters>
+	<road>
+		<Name name="Roads" />
+		<Include_strings str1="_road"/>
+		<Exclude_strings />
+	</road>
+	<path>
+		<Name name="Paths" />
+		<Include_strings str1="_path"/>
+		<Exclude_strings />
+	</path>
+	<wall>
+		<Name name="Walls" />
+		<Include_strings str1="_wall"/>
+		<Exclude_strings />
+	</wall>
+	<edge>
+		<Name name="Edges" />
+		<Include_strings str1="_edge"/>
+		<Exclude_strings />
+	</edge>
+	<train>
+		<Name name="Train" />
+		<Include_strings str1="_train"/>
+		<Exclude_strings />
+	</train>
+	<other>
+		<Name name="Other" />
+		<Include_strings str1="_other"/>
+		<Exclude_strings />
+	</other>
+	<city>
+		<Name name="City" />
+		<Include_strings str1="_city"/>
+		<Exclude_strings />
+	</city>
+</Type_filters>
+</filters>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<filters>
+<Campaign_filters>
+	<NIM>
+		<Name name="Not In Mission" />
+		<Include_strings str1="NIM"/>
+		<Exclude_strings />
+	</NIM>
+	<Coop>
+		<Name name="Cooperative" />
+		<Include_strings str1="Coop1"/>
+		<Exclude_strings />
+	</Coop>
+	<domination>
+		<Name name="Domination" />
+		<Include_strings str1="Do1" str2="Do2"/>
+		<Exclude_strings />
+	</domination>
+	<risk>
+		<Name name="Risk" />
+		<Include_strings str1="Ri1" str2="Ri2" str3="Ri3" str4="Ri4"/>
+		<Exclude_strings />
+	</risk>
+	<rush>
+		<Name name="Rush" />
+		<Include_strings str1="Rush2"/>
+		<Exclude_strings />
+	</rush>
+	<skirmish>
+		<Name name="Skirmish" />
+		<Include_strings str1="Sk1" str2="Sk2" str3="Sk3" str4="Sk4"/>
+		<Exclude_strings />
+	</skirmish>
+	<french>
+		<Name name="French Campaign" />
+		<Include_strings/>
+		<Exclude_strings />
+	</french>
+	<french1>
+		<Name name="Mission 1" />
+		<Include_strings str1="Fr1"/>
+		<Exclude_strings />
+	</french1>
+	<french2>
+		<Name name="Mission 2" />
+		<Include_strings str1="Fr2"/>
+		<Exclude_strings />
+	</french2>
+	<french3>
+		<Name name="Mission 3" />
+		<Include_strings str1="Fr3"/>
+		<Exclude_strings />
+	</french3>
+	<french4>
+		<Name name="Mission 4" />
+		<Include_strings str1="Fr4"/>
+		<Exclude_strings />
+	</french4>
+	<german>
+		<Name name="German Campaign" />
+		<Include_strings/>
+		<Exclude_strings />
+	</german>
+	<german1>
+		<Name name="Mission 1" />
+		<Include_strings str1="Ge1"/>
+		<Exclude_strings />
+	</german1>
+	<german2>
+		<Name name="Mission 2" />
+		<Include_strings str1="Ge2"/>
+		<Exclude_strings />
+	</german2>
+	<german3>
+		<Name name="Mission 3" />
+		<Include_strings str1="Ge3"/>
+		<Exclude_strings />
+	</german3>
+	<german4>
+		<Name name="Mission 4" />
+		<Include_strings str1="Ge4"/>
+		<Exclude_strings />
+	</german4>
+	<german5>
+		<Name name="Mission 5" />
+		<Include_strings str1="Ge5_"/>
+		<Exclude_strings />
+	</german5>
+	<german55>
+		<Name name="Mission 5.5" />
+		<Include_strings str1="Ge55"/>
+		<Exclude_strings />
+	</german55>
+	<german6>
+		<Name name="Mission 6" />
+		<Include_strings str1="Ge6"/>
+		<Exclude_strings />
+	</german6>
+	<german7>
+		<Name name="Mission 7" />
+		<Include_strings str1="Ge7"/>
+		<Exclude_strings />
+	</german7>
+	<western>
+		<Name name="Western Campaign" />
+		<Include_strings/>
+		<Exclude_strings />
+	</western>
+	<western1>
+		<Name name="Mission 1" />
+		<Include_strings str1="We1"/>
+		<Exclude_strings />
+	</western1>
+	<western2>
+		<Name name="Mission 2" />
+		<Include_strings str1="we2"/>
+		<Exclude_strings />
+	</western2>
+	<western3>
+		<Name name="Mission 3" />
+		<Include_strings str1="We3"/>
+		<Exclude_strings />
+	</western3>
+	<western4>
+		<Name name="Mission 4" />
+		<Include_strings str1="We4"/>
+		<Exclude_strings />
+	</western4>
+	<western5>
+		<Name name="Mission 5" />
+		<Include_strings str1="We5"/>
+		<Exclude_strings />
+	</western5>
+	<western6>
+		<Name name="Mission 6" />
+		<Include_strings str1="We6"/>
+		<Exclude_strings />
+	</western6>
+	<western7>
+		<Name name="Mission 7" />
+		<Include_strings str1="Ru7"/>
+		<Exclude_strings />
+	</western7>
+	<russian>
+		<Name name="Russian Campaign" />
+		<Include_strings/>
+		<Exclude_strings />
+	</russian>
+	<russian1>
+		<Name name="Mission 1" />
+		<Include_strings str1="Ru1"/>
+		<Exclude_strings />
+	</russian1>
+	<russian2>
+		<Name name="Mission 2" />
+		<Include_strings str1="Ru2"/>
+		<Exclude_strings />
+	</russian2>
+	<russian3>
+		<Name name="Mission 3" />
+		<Include_strings str1="Ru3"/>
+		<Exclude_strings />
+	</russian3>
+	<russian4>
+		<Name name="Mission 4" />
+		<Include_strings str1="Ru4"/>
+		<Exclude_strings />
+	</russian4>
+	<russian5>
+		<Name name="Mission 5" />
+		<Include_strings str1="Ru5"/>
+		<Exclude_strings />
+	</russian5>
+	<russian6>
+		<Name name="Mission 6" />
+		<Include_strings str1="Ge6"/>
+		<Exclude_strings />
+	</russian6>
+	<russian7>
+		<Name name="Mission 7" />
+		<Include_strings str1="Ru7"/>
+		<Exclude_strings />
+	</russian7>
+</Campaign_filters>
+<Type_filters>
+	<Snow>
+		<Name name="Snow" />
+		<Include_strings str1="Snow_"/>
+		<Exclude_strings />
+	</Snow>
+	<Grass>
+		<Name name="Grass" />
+		<Include_strings str1="Grass_"/>
+		<Exclude_strings />
+	</Grass>
+	<Mud>
+		<Name name="Mud" />
+		<Include_strings str1="Mud_"/>
+		<Exclude_strings />
+	</Mud>
+	<Spring>
+		<Name name="Spring" />
+		<Include_strings str1="Spring_"/>
+		<Exclude_strings />
+	</Spring>
+	<Mine>
+		<Name name="Mine" />
+		<Include_strings str1="Mine_"/>
+		<Exclude_strings />
+	</Mine>
+	<Rock>
+		<Name name="Rock" />
+		<Include_strings str1="Rock_"/>
+		<Exclude_strings />
+	</Rock>
+	<Sand>
+		<Name name="Sand" />
+		<Include_strings str1="Sand_"/>
+		<Exclude_strings />
+	</Sand>
+	<Cobble>
+		<Name name="Cobble" />
+		<Include_strings str1="Cobble_"/>
+		<Exclude_strings />
+	</Cobble>
+	<Ruins>
+		<Name name="Ruins" />
+		<Include_strings str1="Ruins_"/>
+		<Exclude_strings />
+	</Ruins>
+	<Dirt>
+		<Name name="Dirt" />
+		<Include_strings str1="Dirt_"/>
+		<Exclude_strings />
+	</Dirt>
+	<Other>
+		<Name name="Other" />
+		<Include_strings str1="Other_"/>
+		<Exclude_strings />
+	</Other>
+	<MultiTex>
+		<Name name="MultiTex" />
+		<Include_strings str1="var_"/>
+		<Exclude_strings />
+	</MultiTex>
+	<Stone>
+		<Name name="Stone" />
+		<Include_strings str1="Stone_"/>
+		<Exclude_strings />
+	</Stone>
+	<Base>
+		<Name name="Base" />
+		<Include_strings str1="Base_"/>
+		<Exclude_strings />
+	</Base>
+</Type_filters>
+</filters>

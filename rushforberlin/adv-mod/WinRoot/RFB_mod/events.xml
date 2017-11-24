@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<Events>
+<SelectModifier>
+<key1 value="LSHIFT"/>
+</SelectModifier>
+<CreateModifier>
+<key1 value="LCONTROL"/>
+</CreateModifier>
+<CreateGroup1>
+<key1 value="LCONTROL"/>
+<key2 value="1"/>
+</CreateGroup1>
+<CreateGroup2>
+<key1 value="LCONTROL"/>
+<key2 value="2"/>
+</CreateGroup2>
+<CreateGroup3>
+<key1 value="LCONTROL"/>
+<key2 value="3"/>
+</CreateGroup3>
+<CreateGroup4>
+<key1 value="LCONTROL"/>
+<key2 value="4"/>
+</CreateGroup4>
+<CreateGroup5>
+<key1 value="LCONTROL"/>
+<key2 value="5"/>
+</CreateGroup5>
+<CreateGroup6>
+<key1 value="LCONTROL"/>
+<key2 value="6"/>
+</CreateGroup6>
+<CreateGroup7>
+<key1 value="LCONTROL"/>
+<key2 value="7"/>
+</CreateGroup7>
+<CreateGroup8>
+<key1 value="LCONTROL"/>
+<key2 value="8"/>
+</CreateGroup8>
+<CreateGroup9>
+<key1 value="LCONTROL"/>
+<key2 value="9"/>
+</CreateGroup9>
+<SelectGroup1>
+<key1 value="1"/>
+</SelectGroup1>
+<SelectGroup2>
+<key1 value="2"/>
+</SelectGroup2>
+<SelectGroup3>
+<key1 value="3"/>
+</SelectGroup3>
+<SelectGroup4>
+<key1 value="4"/>
+</SelectGroup4>
+<SelectGroup5>
+<key1 value="5"/>
+</SelectGroup5>
+<SelectGroup6>
+<key1 value="6"/>
+</SelectGroup6>
+<SelectGroup7>
+<key1 value="7"/>
+</SelectGroup7>
+<SelectGroup8>
+<key1 value="8"/>
+</SelectGroup8>
+<SelectGroup9>
+<key1 value="9"/>
+</SelectGroup9>
+<MoveLeft>
+<key1 value="LEFT"/>
+</MoveLeft>
+<MoveRight>
+<key1 value="RIGHT"/>
+</MoveRight>
+<MoveUp>
+<key1 value="UP"/>
+</MoveUp>
+<MoveDown>
+<key1 value="DOWN"/>
+</MoveDown>
+<MoveBack>
+<key1 value="B"/>
+</MoveBack>
+<AttackMove>
+<key1 value="A"/>
+</AttackMove>
+<PauseGame>
+<key1 value="SPACE"/>
+</PauseGame>
+<ShowObjectives>
+<key1 value="TABULATE"/>
+</ShowObjectives>
+<ShowMessageHistory>
+<key1 value="TABULATE"/>
+<key2 value="LCONTROL"/>
+</ShowMessageHistory>
+<ShowHPBar>
+<key1 value="H"/>
+<key2 value="LCONTROL"/>
+</ShowHPBar>
+<Menu>
+<key1 value="ESCAPE"/>
+</Menu>
+<QuickSave>
+<key1 value="F6"/>
+</QuickSave>
+<QuickLoad>
+<key1 value="F9"/>
+</QuickLoad>
+<SelectAllUnits>
+<key1 value="A"/>
+<key2 value="LCONTROL"/>
+</SelectAllUnits>
+<NormalSpeed>
+<key1 value="NUMPAD7"/>
+</NormalSpeed>
+<DoubleSpeed>
+<key1 value="NUMPAD8"/>
+</DoubleSpeed>
+<FrameStepPause>
+<key1 value="PAUSE"/>
+</FrameStepPause>
+<Speed8x>
+<key1 value="NUMPAD9"/>
+</Speed8x>
+<ScreenShot>
+<key1 value="F5"/>
+</ScreenShot>
+<InterfaceHide>
+<key1 value="F8"/>
+</InterfaceHide>
+<IngameChat>
+<key1 value="ENTER"/>
+<key2 value="LCONTROL"/>
+</IngameChat>
+<DebugLines>
+<key1 value="F7"/>
+</DebugLines>
+<ShowBlocks>
+<key1 value="LCONTROL"/>
+<key2 value="F7"/>
+</ShowBlocks>
+<WireframeTerrain>
+<key1 value="F7"/>
+<key2 value="LSHIFT"/>
+</WireframeTerrain>
+<ShowLocation>
+<key1 value="L"/>
+</ShowLocation>
+<DebugInfo>
+<key1 value="D"/>
+<key2 value="LCONTROL"/>
+</DebugInfo>
+<Teleport>
+<key1 value="T"/>
+<key2 value="LCONTROL"/>
+</Teleport>
+<KillUnit>
+<key1 value="X"/>
+<key2 value="LCONTROL"/>
+</KillUnit>
+<OneShotKill>
+<key1 value="S"/>
+<key2 value="LCONTROL"/>
+</OneShotKill>
+<Invulnerability>
+<key1 value="I"/>
+</Invulnerability>
+<ResetCamera>
+<key1 value="F1"/>
+</ResetCamera>
+<SwitchFullScreen>
+<key1 value="F11"/>
+</SwitchFullScreen>
+<Wireframe>
+<key1 value="F2"/>
+</Wireframe>
+<CodeProfileLogger>
+<key1 value="LCONTROL"/>
+<key2 value="F3"/>
+</CodeProfileLogger>
+<GodMode>
+<key1 value="F3"/>
+</GodMode>
+<IncreaseLevel>
+<key1 value="LCONTROL"/>
+<key2 value="E"/>
+</IncreaseLevel>
+<SwapControlPlayer>
+<key1 value="F4"/>
+</SwapControlPlayer>
+<ShowSelectedCategory>
+<key1 value="LSHIFT"/>
+<key2 value="D"/>
+</ShowSelectedCategory>
+<WinGame>
+<key1 value="LSHIFT"/>
+<key2 value="LCONTROL"/>
+<key3 value="W"/>
+</WinGame>
+<LostGame>
+<key1 value="LSHIFT"/>
+<key2 value="LCONTROL"/>
+<key3 value="L"/>
+</LostGame>
+<Propaganda>
+</Propaganda>
+<PartisanActivity>
+</PartisanActivity>
+<SupportFire>
+</SupportFire>
+<ProvideAirSuperiori>
+</ProvideAirSuperiori>
+<Paradrop>
+</Paradrop>
+<PhotoRecon>
+</PhotoRecon>
+<SupplyDrop>
+</SupplyDrop>
+<AttackGround>
+<key1 value="G"/>
+</AttackGround>
+<Landmine>
+</Landmine>
+<FieldHospital>
+</FieldHospital>
+<TimeBomb>
+</TimeBomb>
+<ExplosiveKit>
+</ExplosiveKit>
+<TankBarrier>
+</TankBarrier>
+<CallReconPlane>
+</CallReconPlane>
+<TransformToShermanSkink>
+</TransformToShermanSkink>
+<HealAuto>
+</HealAuto>
+<CallStrategicBomber>
+</CallStrategicBomber>
+<TransformToM26Pershing>
+</TransformToM26Pershing>
+<RepairAuto>
+</RepairAuto>
+<CallArtillerySuppor>
+</CallArtillerySuppor>
+<TransformToM7Pries>
+</TransformToM7Pries>
+<AmmoRefillAuto>
+</AmmoRefillAuto>
+<Stop>
+<key1 value="S"/>
+</Stop>
+<ShowPlayerNames>
+<key1 value="N"/>
+</ShowPlayerNames>
+<IngameTeamChat>
+<key1 value="ENTER"/>
+</IngameTeamChat>
+<ShowPathfinding>
+<key1 value="LCONTROL"/>
+<key2 value="P"/>
+</ShowPathfinding>
+</Events>
